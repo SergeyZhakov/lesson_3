@@ -1,0 +1,50 @@
+@import url(null.css);
+a {
+	color: goldenrod;
+}
+
+.block {
+	color: blue;
+}
+
+#section_1 {
+	color: red;
+}
+
+#section_2 {
+	color: seagreen;
+}
+p.about-group {
+	color: khaki;
+}
+#section_3 {
+	color: brown;
+}
+div.style {
+	color: chocolate;
+}
+p span {
+	color: darkblue;
+}
+#section_4 {
+	color: darkmagenta;
+}
+.facts {
+	color: maroon;
+}
+#section_5 {
+	color: olive;
+}
+.disc-list,
+.disc-awards {
+	color: springgreen;
+}
+#section_6 {
+	color: darkturquoise;
+}
+.text2 {
+	color: deeppink;
+}
+p.wiki {
+	color: navy;
+}
